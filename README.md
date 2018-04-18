@@ -10,3 +10,7 @@ La idea es organizar:
 Nombre Serie: N°Temp - Nombre Temp Completa: Capitulo: Fansub: Lang: Cosas
 
 Los trabajos pertenecen a los fansubs respectivos, el credito para ellos y los que trabajan en eso.
+
+Cabe notar que aqui no hay solo fansubs, tambie los que resuben y ajustan los subtitulos aunque se presenten ahi, aunque aveces aporten a las traducciones, de igual manera seguiran la logica como fansubs al momento de poner algo necesario aqui, y por lo mismo dejare el SubEs para los subtitulos que pueda construir en base a otros.
+
+He insisto en respetar el trabajo de los demas.
