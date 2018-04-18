@@ -7,6 +7,6 @@ Pueden encontrar subtitulos de varios idiomas con tal de ayudar con traducciones
 
 La idea es organizar:
 
-Nombre Serie: N°Temp - Nombre Temp Completa: Capitulo: Fansub - Lang: Cosas
+Nombre Serie: N°Temp - Nombre Temp Completa: Capitulo: Fansub: Lang: Cosas
 
 Los trabajos pertenecen a los fansubs respectivos, el credito para ellos y los que trabajan en eso.
