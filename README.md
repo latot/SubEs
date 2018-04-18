@@ -5,6 +5,8 @@ La idea es mantener el trabajo de fansubs, corregir errores, facilitar al mover 
 
 Pueden encontrar subtitulos de varios idiomas con tal de ayudar con traducciones y otras cosas, aunque la idea es el final en ES.
 
+Idealmente español neutro, y permitanme definir neutro: Un español entendible por los paises que hablan español, osea no hay problema con modismos, excepto si son modismos de una region excludiva de un pais o localidad, el cual no es conocido en un español comun, mientras se entienda bien :D
+
 La idea es organizar:
 
 Nombre Serie: N°Temp - Nombre Temp Completa: Capitulo: Fansub: Lang: Cosas
