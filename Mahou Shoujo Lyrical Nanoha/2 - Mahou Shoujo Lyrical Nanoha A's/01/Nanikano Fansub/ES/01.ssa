@@ -1,0 +1,233 @@
+﻿[Script Info]
+; This is a Sub Station Alpha v4 script.
+; For Sub Station Alpha info and downloads,
+; go to http://www.eswat.demon.co.uk/
+; or email kotus@eswat.demon.co.uk
+Title: <untitled>
+Original Script: <unknown>
+ScriptType: v4.00
+Collisions: Normal
+PlayResY: 600
+PlayDepth: 16
+Wav: 0, 91019,F:\Nanikano Fansub\Mahou Shoujo Lyrical Nanoha A's\nanoha1.wav
+Wav: 0, 152984,C:\Documents and Settings\ArNgRiM\Mis documentos\Lo mio\Mis scripts\Mahou Shoujo Lyrical Nanoha A's\Nanoha A's.wav
+Wav: 0, 85633,C:\Documents and Settings\ArNgRiM\Mis documentos\Lo mio\Mis scripts\Mahou Shoujo Lyrical Nanoha A's\Nanoha A's 01.wav
+LastWav: 3
+Timer: 100,0000
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Nanoha_Sub,Britannic Bold,37,16777215,65535,65535,5981259,0,0,1,2,1,2,10,10,10,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: Marked=0,0:02:09.12,0:02:11.78,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Tiene un mensaje.
+Dialogue: Marked=0,0:02:14.01,0:02:17.23,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿Hola? Soy la doctora Ishida, del \NHospital Universitario de Uminari.
+Dialogue: Marked=0,0:02:17.97,0:02:21.84,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Mañana por fin es tu cumpleaños, Hayate-chan.
+Dialogue: Marked=0,0:02:22.12,0:02:26.71,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Me estaba preguntando si te gustaría salir mañana a comer después de acabar las pruebas.
+Dialogue: Marked=0,0:02:27.05,0:02:30.90,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Sería estupendo que me \Ncontestaras antes de venir mañana.
+Dialogue: Marked=0,0:02:31.34,0:02:32.39,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Te estaré esperando.
+Dialogue: Marked=0,0:02:34.30,0:02:36.21,Nanoha_Sub,NTP,0000,0000,0000,!Effect,No hay más mensajes.
+Dialogue: Marked=0,0:03:17.64,0:03:19.17,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Ya es medianoche...
+Dialogue: Marked=0,0:04:13.22,0:04:16.08,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Liberando el sello.
+Dialogue: Marked=0,0:04:28.42,0:04:29.52,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Activado.
+Dialogue: Marked=0,0:04:38.03,0:04:40.35,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Un comienzo demasiado precipitado.
+Dialogue: Marked=0,0:04:54.88,0:04:59.64,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Acabaré el entrenamiento matutino practicando un poco con el control de proyectiles, ¿vale?
+Dialogue: Marked=0,0:04:59.64,0:05:00.67,Nanoha_Sub,NTP,0000,0000,0000,!Effect,De acuerdo.
+Dialogue: Marked=0,0:05:01.55,0:05:03.12,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Lyrical Magical!
+Dialogue: Marked=0,0:05:05.40,0:05:08.29,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Luz sagrada, ven a mi mano.
+Dialogue: Marked=0,0:05:08.42,0:05:10.73,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Bajo mi guía, retumba en los cielos!
+Dialogue: Marked=0,0:05:13.06,0:05:16.21,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Divine Shooter, dispara!
+Dialogue: Marked=0,0:05:20.54,0:05:21.84,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Control...
+Dialogue: Marked=0,0:05:27.21,0:05:32.01,Nanoha_Sub,NTP,0000,0000,0000,!Effect,XVIII. XIX. XX. XXI.
+Dialogue: Marked=0,0:05:32.01,0:05:33.00,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Más deprisa!
+Dialogue: Marked=0,0:05:39.24,0:05:43.53,Nanoha_Sub,NTP,0000,0000,0000,!Effect,LV. LX. LXIV.
+Dialogue: Marked=0,0:05:43.53,0:05:47.38,Nanoha_Sub,NTP,0000,0000,0000,!Effect,LXVIII. LXX. LXIII.
+Dialogue: Marked=0,0:05:50.01,0:05:52.78,Nanoha_Sub,NTP,0000,0000,0000,!Effect,XCVIII. C.
+Dialogue: Marked=0,0:05:55.95,0:05:56.96,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Y el último!
+Dialogue: Marked=0,0:06:07.01,0:06:09.19,Nanoha_Sub,NTP,0000,0000,0000,!Effect,No se preocupe, maestra.
+Dialogue: Marked=0,0:06:10.22,0:06:12.37,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Gracias, Raising Heart.
+Dialogue: Marked=0,0:06:16.04,0:06:18.43,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Soy Takamachi Nanoha.
+Dialogue: Marked=0,0:06:18.69,0:06:23.65,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Hasta hace no mucho tiempo era una alumna de tercero común, pero...
+Dialogue: Marked=0,0:06:23.74,0:06:28.94,Nanoha_Sub,NTP,0000,0000,0000,!Effect,gracias a un suceso ocurrido al comenzar la primavera, me convertí en una chica mágica.
+Dialogue: Marked=0,0:06:29.84,0:06:32.71,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿Qué nota le pones al entrenamiento de hoy?
+Dialogue: Marked=0,0:06:32.71,0:06:34.73,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Unos 80 puntos.
+Dialogue: Marked=0,0:06:35.19,0:06:36.16,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Entiendo.
+Dialogue: Marked=0,0:06:44.82,0:06:47.59,Nanoha_Sub,NTP,0000,0000,0000,!Effect,No he vuelto a ver a la gente de aquel entonces...
+Dialogue: Marked=0,0:06:47.59,0:06:53.22,Nanoha_Sub,NTP,0000,0000,0000,!Effect,que me guió por el camino de la magia y la valentía y con la que tantas veces estuve.
+Dialogue: Marked=0,0:06:55.85,0:06:58.70,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Pero estoy segura de que \Nvolveré a verlos muy pronto.
+Dialogue: Marked=0,0:07:07.71,0:07:09.76,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Nanoha, hoy llegó algo para ti en el correo.
+Dialogue: Marked=0,0:07:10.22,0:07:11.25,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿En serio?
+Dialogue: Marked=0,0:07:11.52,0:07:15.40,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Es del extranjero. Parece que vuelve a tratarse de esa tal Fate Testarossa.
+Dialogue: Marked=0,0:07:15.46,0:07:17.13,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Gracias, Onii-chan!
+Dialogue: Marked=0,0:07:17.16,0:07:18.65,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Siempre la misma chica, ¿eh?
+Dialogue: Marked=0,0:07:19.01,0:07:20.23,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿Es otra vídeo-carta?
+Dialogue: Marked=0,0:07:20.36,0:07:22.14,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Sí! ¡Seguro que sí!
+Dialogue: Marked=0,0:07:22.53,0:07:25.88,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Ya lleváis más de medio año intercambiando correo de la misma forma, ¿no?
+Dialogue: Marked=0,0:07:25.88,0:07:28.78,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Fate-chan podrá venir pronto a jugar, ¿verdad?
+Dialogue: Marked=0,0:07:28.78,0:07:32.85,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Me aseguraré de darle una gran bienvenida cuando llegue!
+Dialogue: Marked=0,0:07:32.85,0:07:33.60,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Vale!
+Dialogue: Marked=0,0:07:33.95,0:07:36.86,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Y parece que también encontramos al final al verdadero dueño de Yuuno...
+Dialogue: Marked=0,0:07:36.86,0:07:38.80,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Ahora me siento bastante sola.
+Dialogue: Marked=0,0:07:38.80,0:07:41.35,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Eso se debe a que estabas \Npegada a él todo el tiempo.
+Dialogue: Marked=0,0:07:41.50,0:07:42.53,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Umm...
+Dialogue: Marked=0,0:07:42.53,0:07:45.23,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Es posible que me vuelvan a dejar cuidar de él durante unos días...
+Dialogue: Marked=0,0:07:45.23,0:07:47.17,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Pero eso depende de su dueño.
+Dialogue: Marked=0,0:07:47.17,0:07:48.43,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Estaría genial!
+Dialogue: Marked=0,0:07:48.43,0:07:49.35,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Sí.
+Dialogue: Marked=0,0:07:49.94,0:07:53.23,Nanoha_Sub,NTP,0000,0000,0000,!Effect,{\an8}{\i1}Mamá, ¿crees que Yuuno se acordará de mí?
+Dialogue: Marked=0,0:07:52.47,0:07:54.88,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Fate-chan... Yuuno-kun...
+Dialogue: Marked=0,0:07:55.38,0:07:58.32,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Chrono-kun, Lindy-san, Amy-san...
+Dialogue: Marked=0,0:07:59.01,0:08:00.91,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿Cómo les irá?
+Dialogue: Marked=0,0:08:12.32,0:08:15.73,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Estamos preparados para desembarcar en la oficina central de la Agencia de Administración.
+Dialogue: Marked=0,0:08:16.42,0:08:19.29,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Tal y como esperaba. Así me gusta.
+Dialogue: Marked=0,0:08:22.02,0:08:25.84,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Disculpe. Capitana, ¿le gustaría otra taza de té?
+Dialogue: Marked=0,0:08:25.84,0:08:28.28,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Gracias, Amy. Por supuesto.
+Dialogue: Marked=0,0:08:32.09,0:08:34.12,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Cuando desembarquemos en la oficina central,
+Dialogue: Marked=0,0:08:34.12,0:08:37.02,Nanoha_Sub,NTP,0000,0000,0000,!Effect,el Asura y nosotros por fin podremos descansar, ¿eh?
+Dialogue: Marked=0,0:08:37.49,0:08:38.61,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Es cierto.
+Dialogue: Marked=0,0:08:39.49,0:08:40.76,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿Qué están haciendo los niños?
+Dialogue: Marked=0,0:08:40.76,0:08:43.77,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Los tres deberían estar descansando ahora.
+Dialogue: Marked=0,0:08:44.22,0:08:48.43,Nanoha_Sub,NTP,0000,0000,0000,!Effect,El Oficial Chrono y Fate-chan estaban \Nhaciendo un combate de entrenamiento.
+Dialogue: Marked=0,0:08:48.76,0:08:51.12,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Y Yuuno-kun se les ha unido, así que...
+Dialogue: Marked=0,0:08:51.12,0:08:52.11,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿En serio?
+Dialogue: Marked=0,0:08:52.23,0:08:56.28,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Aunque mañana es el último día del proceso judicial, se lo están tomando muy en serio.
+Dialogue: Marked=0,0:09:00.96,0:09:01.68,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Toma.
+Dialogue: Marked=0,0:09:02.13,0:09:05.42,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Bueno, seguramente sea porque en el juicio de mañana se dará el veredicto final.
+Dialogue: Marked=0,0:09:13.44,0:09:16.06,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Vale, ahora repasemos todo por última vez.
+Dialogue: Marked=0,0:09:16.26,0:09:19.12,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Fate, te sentarás en el banquillo de los acusados...
+Dialogue: Marked=0,0:09:19.12,0:09:21.21,Nanoha_Sub,NTP,0000,0000,0000,!Effect,y responderás a las preguntas del juez que tengo escritas aquí.
+Dialogue: Marked=0,0:09:21.47,0:09:22.14,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Sí.
+Dialogue: Marked=0,0:09:22.52,0:09:25.17,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Arf, tú también estarás sentada ahí.
+Dialogue: Marked=0,0:09:25.62,0:09:26.55,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Comprendo.
+Dialogue: Marked=0,0:09:26.82,0:09:30.41,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Y el niño hurón y yo estaremos esta vez como testigos.
+Dialogue: Marked=0,0:09:30.57,0:09:32.82,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Deberás responder a las \Npreguntas que han escrito aquí.
+Dialogue: Marked=0,0:09:32.82,0:09:34.45,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Vale. Entiendo.
+Dialogue: Marked=0,0:09:34.98,0:09:35.85,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Eh, oye!
+Dialogue: Marked=0,0:09:35.85,0:09:36.60,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿Qué ocurre?
+Dialogue: Marked=0,0:09:36.60,0:09:38.93,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡¿Quién es el "niño hurón"?! ¡¿Quién?!
+Dialogue: Marked=0,0:09:38.93,0:09:40.76,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Pues tú. ¿O no es así?
+Dialogue: Marked=0,0:09:45.50,0:09:48.26,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Puede que me pase un montón de tiempo en mi forma animal,
+Dialogue: Marked=0,0:09:48.26,0:09:51.23,Nanoha_Sub,NTP,0000,0000,0000,!Effect,pero "Yuuno Scrya" es un gran nombre, ¿sabes?!
+Dialogue: Marked=0,0:09:51.23,0:09:53.00,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Yuuno, tranquilízate...
+Dialogue: Marked=0,0:09:53.00,0:09:55.71,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Chrono, no deberías ser tan malo...
+Dialogue: Marked=0,0:09:56.19,0:09:59.33,Nanoha_Sub,NTP,0000,0000,0000,!Effect,No pasa nada. Sólo quería hacer una broma para aligerar un poco la atmósfera.
+Dialogue: Marked=0,0:10:02.54,0:10:04.71,Nanoha_Sub,NTP,0000,0000,0000,!Effect,En realidad, estoy seguro de que te declararán no culpable...
+Dialogue: Marked=0,0:10:04.71,0:10:08.92,Nanoha_Sub,NTP,0000,0000,0000,!Effect,o como mucho puede que tengas que soportar unos cuantos años de libertad vigilada.
+Dialogue: Marked=0,0:10:09.00,0:10:12.24,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Aun así, deberías seguir \Nmemorizando esas respuestas.
+Dialogue: Marked=0,0:10:12.24,0:10:13.04,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Sí.
+Dialogue: Marked=0,0:10:13.48,0:10:14.36,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Sí...
+Dialogue: Marked=0,0:10:20.39,0:10:24.20,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Buen trabajo, Almirante Lindy. \N¿Va todo acorde a lo planeado?
+Dialogue: Marked=0,0:10:24.33,0:10:27.12,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Sí, Leti. ¿Por ahí va todo bien?
+Dialogue: Marked=0,0:10:27.18,0:10:31.91,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Sí, en lo referente a la aprobación del \Ndesembarque y mantenimiento del Asura...
+Dialogue: Marked=0,0:10:34.86,0:10:38.84,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Pero no estamos demasiado contentos con cierta cosa.
+Dialogue: Marked=0,0:10:38.95,0:10:40.95,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿Que no estáis demasiado contentos?
+Dialogue: Marked=0,0:10:41.05,0:10:42.43,Nanoha_Sub,NTP,0000,0000,0000,!Effect,La Lost Logia.
+Dialogue: Marked=0,0:10:42.84,0:10:46.02,Nanoha_Sub,NTP,0000,0000,0000,!Effect,El peligroso material de Clase 1 que hemos estado buscando.
+Dialogue: Marked=0,0:10:47.80,0:10:51.07,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Se ha hallado, al parecer, en el interior de las ruinas antiguas de varios mundos...
+Dialogue: Marked=0,0:10:51.14,0:10:53.81,Nanoha_Sub,NTP,0000,0000,0000,!Effect,y se está armando cierto revuelo entre los que están a cargo de la investigación.
+Dialogue: Marked=0,0:10:53.81,0:10:54.81,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿En serio?
+Dialogue: Marked=0,0:10:54.81,0:10:58.91,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Hemos enviado algunos efectivos, de manera que ahora estamos esperando oír su respuesta.
+Dialogue: Marked=0,0:10:59.47,0:11:01.01,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Ya veo...
+Dialogue: Marked=0,0:11:42.18,0:11:43.46,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Menudos inútiles.
+Dialogue: Marked=0,0:11:44.17,0:11:47.66,Nanoha_Sub,NTP,0000,0000,0000,!Effect,La cantidad será nimia, pero bueno...
+Dialogue: Marked=0,0:11:55.75,0:11:59.34,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Vuestros poderes mágicos serán \Ndevorados por el Libro de las Tinieblas!
+Dialogue: Marked=0,0:12:27.61,0:12:29.56,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Bueno, hasta mañana.
+Dialogue: Marked=0,0:12:29.56,0:12:30.43,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Vale.
+Dialogue: Marked=0,0:12:30.43,0:12:31.79,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Adiós!
+Dialogue: Marked=0,0:12:57.65,0:12:59.48,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿Es este el que querías?
+Dialogue: Marked=0,0:12:59.76,0:13:02.32,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Sí, muchísimas gracias.
+Dialogue: Marked=0,0:13:03.54,0:13:05.93,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿En serio? ¿Tenemos la misma edad?
+Dialogue: Marked=0,0:13:05.93,0:13:11.75,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Sí. Ya te había visto alguna que otra vez y había pensado que podríamos tener la misma edad.
+Dialogue: Marked=0,0:13:12.10,0:13:13.86,Nanoha_Sub,NTP,0000,0000,0000,!Effect,De hecho, yo también lo había pensado...
+Dialogue: Marked=0,0:13:15.62,0:13:18.37,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Umm... Me llamo Tsukimura Suzuka.
+Dialogue: Marked=0,0:13:18.55,0:13:19.90,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Suzuka-chan...
+Dialogue: Marked=0,0:13:20.49,0:13:22.58,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Yo soy Yagami Hayate.
+Dialogue: Marked=0,0:13:22.72,0:13:23.88,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Hayate-chan.
+Dialogue: Marked=0,0:13:24.06,0:13:27.24,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Creo que "Hayate" se escribe en hiragana. Es un nombre un poquito raro, ¿verdad?
+Dialogue: Marked=0,0:13:27.24,0:13:30.88,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡No! Pienso que es muy bonito.
+Dialogue: Marked=0,0:13:31.35,0:13:32.64,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Gracias.
+Dialogue: Marked=0,0:13:48.77,0:13:51.69,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Muchas gracias, Suzuka-chan. Puedes dejarme aquí.
+Dialogue: Marked=0,0:13:51.69,0:13:53.21,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Vale. Hasta luego.
+Dialogue: Marked=0,0:13:57.28,0:14:00.96,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Gracias por hablar conmigo. En serio, gracias.
+Dialogue: Marked=0,0:14:00.96,0:14:03.48,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Sí. Hasta la vista, Hayate-chan.
+Dialogue: Marked=0,0:14:11.57,0:14:14.32,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Hayate-chan, ¿no tendrás frío, verdad?
+Dialogue: Marked=0,0:14:14.32,0:14:15.40,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Estoy bien.
+Dialogue: Marked=0,0:14:15.82,0:14:17.24,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿Tú tienes frío?
+Dialogue: Marked=0,0:14:17.44,0:14:19.05,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Para nada.
+Dialogue: Marked=0,0:14:24.57,0:14:25.90,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Signum!
+Dialogue: Marked=0,0:14:26.26,0:14:27.01,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Sí.
+Dialogue: Marked=0,0:14:31.25,0:14:34.94,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿Qué queréis las dos para cenar?
+Dialogue: Marked=0,0:14:34.94,0:14:37.80,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Ah, es cierto. No se me ocurre nada.
+Dialogue: Marked=0,0:14:37.97,0:14:41.45,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿Por qué no lo decidimos en el supermercado mientras buscamos los ingredientes?
+Dialogue: Marked=0,0:14:41.45,0:14:43.00,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Vale. Me parece bien.
+Dialogue: Marked=0,0:14:43.91,0:14:47.37,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Ahora que caigo, ¿Vita ha salido hoy otra vez?
+Dialogue: Marked=0,0:14:47.54,0:14:50.73,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Umm... Bueno, sí...
+Dialogue: Marked=0,0:14:50.90,0:14:57.15,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Al parecer salió a jugar por ahí, pero Zafira está con ella, así que no te preocupes.
+Dialogue: Marked=0,0:14:57.22,0:14:58.29,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Ya veo.
+Dialogue: Marked=0,0:14:58.29,0:15:04.62,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Pero aunque nos separen grandes\N distancias, siempre estaremos junto a ti.
+Dialogue: Marked=0,0:15:04.73,0:15:08.04,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Sí. Siempre estaremos contigo.
+Dialogue: Marked=0,0:15:09.97,0:15:11.04,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Gracias...
+Dialogue: Marked=0,0:15:27.18,0:15:29.56,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿Cómo va, Vita? ¿Crees que te va a ser posible encontrarla?
+Dialogue: Marked=0,0:15:29.88,0:15:32.90,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Es como si la fuente estuviese aquí, pero pareciese que no está...
+Dialogue: Marked=0,0:15:35.03,0:15:39.35,Nanoha_Sub,NTP,0000,0000,0000,!Effect,La fuente de una cantidad extrañamente enorme de poder mágico, que sentí claramente hace poco...
+Dialogue: Marked=0,0:15:39.46,0:15:44.45,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Si nos hacemos con la fuente, podríamos llenar fácilmente otras veinte páginas del Libro.
+Dialogue: Marked=0,0:15:44.61,0:15:45.89,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Separémonos para buscarla.
+Dialogue: Marked=0,0:15:46.07,0:15:47.44,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Dejaré el Libro de las Tinieblas a tu cargo.
+Dialogue: Marked=0,0:15:47.44,0:15:48.99,Nanoha_Sub,NTP,0000,0000,0000,!Effect,De acuerdo, Zafira.
+Dialogue: Marked=0,0:15:49.11,0:15:50.91,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Busca con atención, ¿vale?
+Dialogue: Marked=0,0:15:51.07,0:15:52.13,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Ya lo sé.
+Dialogue: Marked=0,0:15:58.70,0:16:01.09,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Expándete, Barrera.
+Dialogue: Marked=0,0:16:01.39,0:16:03.39,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Das Gefängnis der Magie.
+Dialogue: Marked=0,0:16:17.43,0:16:20.05,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Peligro. Emergencia.
+Dialogue: Marked=0,0:16:23.73,0:16:24.79,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡¿Una barrera?!
+Dialogue: Marked=0,0:16:32.70,0:16:35.59,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Una reacción mágica! ¡Por fin la he encontrado!
+Dialogue: Marked=0,0:16:38.43,0:16:40.18,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Vamos allá, Graf Eisen.
+Dialogue: Marked=0,0:16:40.18,0:16:41.03,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Entendido.
+Dialogue: Marked=0,0:16:45.86,0:16:48.56,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Se aproxima a gran velocidad.
+Dialogue: Marked=0,0:16:48.56,0:16:51.09,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿Viene hacia aquí?
+Dialogue: Marked=0,0:17:09.63,0:17:11.56,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Nos acercamos al objetivo.
+Dialogue: Marked=0,0:17:25.03,0:17:26.34,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Aquí llega.
+Dialogue: Marked=0,0:17:38.31,0:17:39.74,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Proyectil teledirigido.
+Dialogue: Marked=0,0:17:51.98,0:17:54.52,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Tödliche Strafe!
+Dialogue: Marked=0,0:18:11.13,0:18:13.55,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Raising Heart, por favor!
+Dialogue: Marked=0,0:18:14.14,0:18:16.69,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Stand by. Ready. Set up.
+Dialogue: Marked=0,0:19:09.81,0:19:11.60,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Schwalbe Fliegen.
+Dialogue: Marked=0,0:19:26.19,0:19:29.01,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡No recuerdo haberte hecho nada que te provocara de esta manera!
+Dialogue: Marked=0,0:19:29.33,0:19:30.59,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿De dónde sales?
+Dialogue: Marked=0,0:19:30.59,0:19:32.78,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿Por qué estás haciéndome esto?
+Dialogue: Marked=0,0:19:35.35,0:19:38.70,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Si no me lo dices, ¿cómo voy a saberlo?!
+Dialogue: Marked=0,0:19:48.09,0:19:50.17,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Idiota!
+Dialogue: Marked=0,0:19:52.93,0:19:54.11,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Flash Move.
+Dialogue: Marked=0,0:19:54.71,0:19:56.12,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Shooting Mode.
+Dialogue: Marked=0,0:20:00.89,0:20:02.20,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Escucha...
+Dialogue: Marked=0,0:20:06.69,0:20:07.72,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Divine...
+Dialogue: Marked=0,0:20:07.97,0:20:09.48,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡lo que te estoy diciendo!
+Dialogue: Marked=0,0:20:09.48,0:20:10.57,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Buster.
+Dialogue: Marked=0,0:20:34.05,0:20:36.70,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Graf Eisen, Cartridge Load!
+Dialogue: Marked=0,0:20:37.20,0:20:38.61,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Explosion.
+Dialogue: Marked=0,0:20:43.72,0:20:45.23,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Raketenform.
+Dialogue: Marked=0,0:20:56.18,0:20:57.54,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Raketen...
+Dialogue: Marked=0,0:21:14.15,0:21:16.49,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Hammer!
+Dialogue: Marked=0,0:21:41.38,0:21:42.65,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Protection.
+Dialogue: Marked=0,0:21:52.41,0:21:54.07,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Atraviésala!
+Dialogue: Marked=0,0:21:54.07,0:21:55.00,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Afirmativo.
+Dialogue: Marked=0,0:22:52.28,0:22:54.70,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿Es que todo va acabar así...?
+Dialogue: Marked=0,0:22:55.37,0:22:56.10,Nanoha_Sub,NTP,0000,0000,0000,!Effect,No quiero...
+Dialogue: Marked=0,0:22:56.63,0:22:58.73,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Yuuno-kun, Chrono-kun...
+Dialogue: Marked=0,0:22:59.36,0:23:00.21,Nanoha_Sub,,0000,0000,0000,,¡Fate-chan!
+Dialogue: Marked=0,0:23:12.83,0:23:15.06,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Perdona que hayamos tardado, Nanoha.
+Dialogue: Marked=0,0:23:15.37,0:23:17.01,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Yuuno-kun...
+Dialogue: Marked=0,0:23:17.76,0:23:19.03,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Aliados, ¡¿eh?!
+Dialogue: Marked=0,0:23:24.45,0:23:25.67,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Scythe Form.
+Dialogue: Marked=0,0:23:29.09,0:23:30.18,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Nosotros somos amigos.
+Dialogue: Marked=0,0:25:09.25,0:25:11.45,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Los comienzos son siempre demasiado precipitados.
+Dialogue: Marked=0,0:25:11.59,0:25:14.83,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡Pero esta situación también lo es!
+Dialogue: Marked=0,0:25:14.91,0:25:17.99,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¡¿Qué se supone que debo hacer entre tanta confusión y desconcierto?!
+Dialogue: Marked=0,0:25:17.99,0:25:20.54,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Estamos en una crisis en la que nos \Nenfrentamos a formidables enemigos.
+Dialogue: Marked=0,0:25:20.74,0:25:23.54,Nanoha_Sub,NTP,0000,0000,0000,!Effect,¿Cuál será la razón de que nos ataquen de esta forma?
+Dialogue: Marked=0,0:25:24.01,0:25:28.19,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Próximamente en Mahou Shoujo Lyrical Nanoha A's, episodio 2.
+Dialogue: Marked=0,0:25:28.57,0:25:30.69,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Una vez más, la tormenta de la batalla.
+Dialogue: Marked=0,0:25:31.33,0:25:32.88,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Lyrical Magical...
+Dialogue: Marked=0,0:25:32.95,0:25:34.03,Nanoha_Sub,NTP,0000,0000,0000,!Effect,Esforzándose.
