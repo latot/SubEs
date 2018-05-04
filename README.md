@@ -3,9 +3,9 @@ Hay muchas series, pero algunas con subtitulos medios perdidos, aveces con error
 
 La idea es mantener el trabajo de fansubs, corregir errores, facilitar al mover subtitulos de una calidad a otra, etc.
 
-Pueden encontrar subtitulos de varios idiomas con tal de ayudar con traducciones y otras cosas, aunque la idea es el final en ES.
+Pueden encontrar subtitulos de varios idiomas con tal de ayudar con traducciones y otras cosas, aunque la idea es el final en ES, la idea de este proyecto no es traducir directamente, sin embargo si se encuentra algun error o mejora se agradece el aporte.
 
-Idealmente español neutro, y permitanme definir neutro: Un español entendible por los paises que hablan español, osea no hay problema con modismos, excepto si son modismos de una region excludiva de un pais o localidad, el cual no es conocido en un español comun, mientras se entienda bien :D
+Si se va a traducir algo, idealmente español neutro, y permitanme definir neutro: Un español entendible por los paises que hablan español, osea no hay problema con modismos, excepto si son modismos de una region excludisa de un pais o localidad, el cual no es conocido en un español comun, mientras se entienda bien :D
 
 La idea es organizar:
 
